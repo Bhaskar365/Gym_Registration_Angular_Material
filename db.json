@@ -1,0 +1,24 @@
+{
+  "enquiry": [
+    {
+      "firstName": "John",
+      "lastName": "McClane",
+      "email": "j.mclane@test.com",
+      "mobile": "01234567890",
+      "weight": 88,
+      "height": 1.88,
+      "bmi": 24.898143956541425,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-15T18:30:00.000Z",
+      "id": 1
+    }
+  ]
+}
